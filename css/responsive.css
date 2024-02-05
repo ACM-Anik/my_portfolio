@@ -165,7 +165,7 @@
         opacity: 1;
     }
 
-    .features-section .features-e-commerce .features-desc {
+    /* .features-section .features-e-commerce .features-desc {
         width: 100%;
     }
 
@@ -178,7 +178,7 @@
 
     .features-section {
         margin-bottom: 100px;
-    }
+    } */
 
     .portfolio-section .left-portfolio-text p {
         margin-left: 0;
@@ -658,7 +658,7 @@
         left: 92%;
     }
 
-    .features-section .features-title {
+    /* .features-section .features-title {
         margin: 50px 0 0;
     }
 
@@ -694,7 +694,7 @@
 
     .features-section .features-market-place>.pricing-section .pricing-normal {
         order: 2;
-    }
+    } */
 
     .process-section .process-sticky {
         display: none;

@@ -1350,7 +1350,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     padding: 0 0 0 26px;
     flex-grow: 2;
 }
-
+/* 
 .features-section .features-title {
     text-align: center;
     margin: 100px 0 0;
@@ -1511,7 +1511,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     margin-bottom: 30px;
     height: 260px;
     border-radius: 32px;
-    /* box-shadow: 15px 15px 30px #D9D9D9, -15px -15px 30px #FFFFFF; */
+    box-shadow: 15px 15px 30px #D9D9D9, -15px -15px 30px #FFFFFF; 
     overflow: visible;
 }
 
@@ -1606,7 +1606,7 @@ body.black .features-section .my-accordion-sec .single-accordion.active {
     width: 80%;
     text-align: left;
     margin: 0 auto;
-}
+} */
 
 .portfolio-section {
     padding-top: 300px;
