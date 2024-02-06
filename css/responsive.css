@@ -188,7 +188,7 @@
         margin-top: 45px;
     }
 
-    .pricing-section .pricing-normal,
+    /* .pricing-section .pricing-normal,
     .pricing-section .pricing-plus,
     .pricing-section .add-on,
     .pricing-section .button-area-col {
@@ -215,7 +215,7 @@
 
     .pricing-section .learn-more .learn-more-content {
         margin-bottom: 30px;
-    }
+    } */
 
     .footer-section .footer-col {
         padding: 0 15px;
@@ -869,7 +869,7 @@
         margin: 0 auto;
     }
 
-    .pricing-section .pricing-desc {
+    /* .pricing-section .pricing-desc {
         margin: 180px 0 50px;
     }
 
@@ -921,7 +921,7 @@
 
     .pricing-section .add-on .add-on-content {
         background-size: auto 90%;
-    }
+    } */
 
     .contact-section h2 {
         font-size: var(--font26);
