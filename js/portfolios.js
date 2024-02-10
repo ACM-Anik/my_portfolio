@@ -14,14 +14,6 @@ var portfolio_data = [
             {
                 src: '../images/Dance-Revolutions-cover-images/2.png',
                 thumb: '../images/Dance-Revolutions-cover-images/2.png',
-            },
-            {
-                src: '../images/Dance-Revolutions-cover-images/3.png',
-                thumb: '../images/Dance-Revolutions-cover-images/3.png',
-            },
-            {
-                src: '../images/Dance-Revolutions-cover-images/4.png',
-                thumb: '../images/Dance-Revolutions-cover-images/4.png',
             }
         ]
     },
@@ -40,14 +32,6 @@ var portfolio_data = [
             {
                 src: '../images/Epic-Heroes-Emporium-cover-images/2.png',
                 thumb: '../images/Epic-Heroes-Emporium-cover-images/2.png',
-            },
-            {
-                src: '../images/Epic-Heroes-Emporium-cover-images/3.png',
-                thumb: '../images/Epic-Heroes-Emporium-cover-images/3.png',
-            },
-            {
-                src: '../images/Epic-Heroes-Emporium-cover-images/4.png',
-                thumb: '../images/Epic-Heroes-Emporium-cover-images/4.png',
             }
         ]
     },
@@ -62,14 +46,6 @@ var portfolio_data = [
             {
                 src: '../images/The-Indic-Cuisine-cover-images/1.png',
                 thumb: '../images/The-Indic-Cuisine-cover-images/1.png',
-            },
-            {
-                src: '../images/The-Indic-Cuisine-cover-images/2.png',
-                thumb: '../images/The-Indic-Cuisine-cover-images/2.png',
-            },
-            {
-                src: '../images/The-Indic-Cuisine-cover-images/3.png',
-                thumb: '../images/The-Indic-Cuisine-cover-images/3.png',
             }
         ]
     },

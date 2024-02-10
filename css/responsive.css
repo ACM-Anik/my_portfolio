@@ -165,21 +165,6 @@
         opacity: 1;
     }
 
-    /* .features-section .features-e-commerce .features-desc {
-        width: 100%;
-    }
-
-    .features-section .features-name.special-tag::after {
-        display: block;
-        width: fit-content;
-        width: -moz-fit-content;
-        margin: 15px auto 0;
-    }
-
-    .features-section {
-        margin-bottom: 100px;
-    } */
-
     .portfolio-section .left-portfolio-text p {
         margin-left: 0;
     }
@@ -230,6 +215,7 @@
     }
 }
 
+/* Max Width 767.98px */
 @media screen and (max-width: 767.98px) {
     .mobile-text-center {
         text-align: center;
@@ -320,8 +306,10 @@
     }
 
     .landing-section .landing-effect-right .phone-screen .selections .single-selection:nth-child(2) .select-card {
-        background-color: #efe6f4;
-        color: #a177b4;
+        /* background-color: #efe6f4;
+        color: #a177b4; */
+        background-color: #e6f2f4;
+        color: #52D3D8;
     }
 
     .landing-section .landing-effect-right .phone-screen .selections .single-selection:nth-child(3) .select-card {
@@ -330,8 +318,10 @@
     }
 
     .landing-section .landing-effect-right .phone-screen .selections .single-selection:nth-child(4) .select-card {
-        background-color: #efe6f4;
-        color: #a177b4;
+        /* background-color: #efe6f4; */
+        /* color: #a177b4; */
+        background-color: #e6f1f4;
+        color: #52D3D8;
     }
 
     .landing-section .landing-effect-right .phone-screen .selections .single-selection:nth-child(5) .select-card {
@@ -657,44 +647,6 @@
     .three-board-section .advantages-images-wrapper .single-advantage-image svg.ranking-right {
         left: 92%;
     }
-
-    /* .features-section .features-title {
-        margin: 50px 0 0;
-    }
-
-    .features-section .features-title p {
-        width: 100%;
-    }
-
-    .features-section>.container>.row {
-        margin-bottom: 100px;
-    }
-
-    .features-section .single-features-img {
-        order: 1;
-        margin-bottom: 30px;
-    }
-
-    .features-section .single-features-detail {
-        order: 2;
-    }
-
-    .features-section .single-features-detail:nth-child(1) {
-        padding-right: 15px;
-    }
-
-    .features-section .single-features-detail:nth-child(2) {
-        padding-left: 15px;
-    }
-
-    .features-section .single-features-img-box {
-        width: 100%;
-        left: 0;
-    }
-
-    .features-section .features-market-place>.pricing-section .pricing-normal {
-        order: 2;
-    } */
 
     .process-section .process-sticky {
         display: none;
