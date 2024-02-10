@@ -763,60 +763,6 @@
         margin: 0 auto;
     }
 
-    /* .pricing-section .pricing-desc {
-        margin: 180px 0 50px;
-    }
-
-    .pricing-section .c1-compare {
-        padding-left: 15px;
-    }
-
-    .pricing-section .c2-common {
-        padding-right: 15px;
-    }
-
-    .pricing-section .c2-common-wrapper {
-        padding: 30px;
-    }
-
-    .pricing-section .quotation-system .quotation-system-content {
-        padding: 30px;
-    }
-
-    .pricing-section .e-commerce-system .e-commerce-system-content {
-        padding: 30px;
-        background-size: 90% auto;
-    }
-
-    .pricing-section .e-commerce-system .e-commerce-system-content .commerce-detail-wrapper {
-        padding: 0 0 0 0;
-        margin-bottom: 25px;
-    }
-
-    .pricing-section .e-commerce-system .e-commerce-system-content .commerce-detail {
-        padding: 15px;
-    }
-
-    .pricing-section .e-commerce-system .e-commerce-system-content .market-detail-wrapper {
-        padding: 50px 0 0 0;
-    }
-
-    .pricing-section .e-commerce-system .e-commerce-system-content .market-detail {
-        padding: 15px;
-    }
-
-    .pricing-section .e-commerce-system .e-commerce-system-content .market-detail::before {
-        font-size: var(--font60);
-        top: unset;
-        bottom: calc(100% + 37.5px);
-        right: 50%;
-        transform: translate(50%, 50%);
-    }
-
-    .pricing-section .add-on .add-on-content {
-        background-size: auto 90%;
-    } */
-
     .contact-section h2 {
         font-size: var(--font26);
         padding: 0;
