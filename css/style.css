@@ -1933,7 +1933,6 @@ body:not(.black) .process-section .circle {
 
 .process-section .process-moving-path .process-path-svg-relative .single-process .process-text-wrapper span {
     font-size: var(--font20);
-    /* color: #a177b4; */
     color: #52D3D8;
     font-weight: 600;
 }
