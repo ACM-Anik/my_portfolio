@@ -1559,7 +1559,7 @@ body.black .circular-text textPath {
     height: 280px;
     margin-bottom: 30px;
     overflow: hidden;
-    border-radius: 32px;
+    border-radius: 28px;
     background-color: #FFFFFF;
     position: relative;
     display: flex;
@@ -1601,6 +1601,7 @@ body.black .circular-text textPath {
 .portfolio-section .single-portfolio p {
     color: #787878;
     margin-bottom: 20px;
+    margin-top: 10px;
     /* white-space: nowrap; */
     text-overflow: ellipsis;
     font-size: var(--font14);
