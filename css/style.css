@@ -1539,7 +1539,7 @@ body.black .circular-text textPath {
 }
 
 .portfolio-section .single-portfolio {
-    width: 553px;
+    width: 480px;
     height: 100%;
     margin: 0 40px;
     display: flex;
@@ -1556,7 +1556,7 @@ body.black .circular-text textPath {
 
 .portfolio-section .single-portfolio .portfolio-img {
     width: 100%;
-    height: 312px;
+    height: 280px;
     margin-bottom: 30px;
     overflow: hidden;
     border-radius: 32px;
@@ -1584,7 +1584,7 @@ body.black .circular-text textPath {
 
 .portfolio-section .single-portfolio .portfolio-text {
     padding-left: 16px;
-    overflow: hidden;
+    /* overflow: hidden; */
     max-width: 100%;
     height: 110px;
 }
@@ -1601,15 +1601,15 @@ body.black .circular-text textPath {
 .portfolio-section .single-portfolio p {
     color: #787878;
     margin-bottom: 20px;
-    white-space: nowrap;
+    /* white-space: nowrap; */
     text-overflow: ellipsis;
-    font-size: var(--font20);
+    font-size: var(--font14);
 }
 
 .portfolio-section .single-portfolio span {
     color: #232323;
     margin-bottom: 16px;
-    font-size: var(--font20);
+    font-size: var(--font14);
     padding-left: 20px;
     white-space: nowrap;
     text-overflow: ellipsis;
